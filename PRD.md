@@ -82,6 +82,7 @@ The university personnel were asked how they receive, record, store and return i
 
 The responses helped us understand how the current process works, identify the challenges faced by both groups and determine areas that need improvement.
 
+
 ### 3.2 Target Users
 
 The Babcock University Lost & Found System is intended for two main groups of users:
@@ -98,7 +99,11 @@ The interviews with students and university personnel revealed the following:
 2. Most students receive little or no response and follow-up after reporting their lost items.
 3. University personnel record details of found items. However, they do not have an established way to identify and contact their owners.
 4. Found items are kept at the BULFS office. Before collecting an item, a person must provide identification and proof of ownership.
-
+## 3.4 User Stories:
+1. As a student, I want to create an account so that i can access the Lost and Found Problem.
+2. As a student. I wwant to log in securely so that i can access my account.
+3. As a student, I want to upload an image of a missing item so that it can be easily be more identified.
+4. As a student, I want to check the status of my report so that i stay informed about any progress.
 # 4. Product Scope
 
 ### 4.1 In-Scope Features
