@@ -73,7 +73,7 @@ The BULFS System is expected to bring the following improvements:
 
 # 3. User Research and Analysis
 
-### 3.1 Research Methodology
+### 3.1 Users Stories
 
 We conducted face-to-face interviews with 10 participants: 7 students and 3 university personnel.
 The students were asked about their experiences with losing belongings,
